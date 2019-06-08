@@ -4,14 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Activity;
 import android.os.Bundle;
-<<<<<<< Updated upstream
-=======
 import android.view.View;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
->>>>>>> Stashed changes
 
 public class MainActivity extends AppCompatActivity {
 

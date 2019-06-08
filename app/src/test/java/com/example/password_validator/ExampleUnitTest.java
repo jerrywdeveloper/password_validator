@@ -11,13 +11,6 @@ import static org.junit.Assert.*;
  */
 public class ExampleUnitTest {
     @Test
-    public void addition_isCorrect() {
-        assertEquals(4, 2 + 2);
-    }
-<<<<<<< Updated upstream
-=======
-
-    @Test
     public void stringCheckTest_False() {
         //expect false
         Validator test = new Validator();
@@ -97,5 +90,4 @@ public class ExampleUnitTest {
         assertFalse(result);
     }
 
->>>>>>> Stashed changes
 }
